@@ -33,15 +33,21 @@ greet("홍길동")
 
 [Google로 가기](https://www.google.com)
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Shohei_Ohtani_%2852252068139%29.jpg" alt="오타니 쇼헤이" width="240" />
-  &nbsp;&nbsp;&nbsp;
-  <strong style="font-size: 36px;">→</strong>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/69102.jpg" alt="문보경" width="240" />
-</p>
-
-<p align="center"><b>오타니 쇼헤이 → 문보경</b></p>
+<div align="center">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Shohei_Ohtani_batting_for_the_Los_Angeles_Angels_in_2019.jpg"
+    alt="Shohei Ohtani"
+    width="260"
+  />
+  <span style="font-size:48px; font-weight:bold; margin:0 16px;">→</span>
+  <img
+    src="https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/69102.jpg"
+    alt="Moon Bo-gyeong"
+    width="260"
+  />
+  <br/>
+  <sub>오타니 쇼헤이 → 문보경</sub>
+</div>
 
 ## 할 일 목록
 
