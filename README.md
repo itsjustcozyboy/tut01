@@ -33,9 +33,15 @@ greet("홍길동")
 
 [Google로 가기](https://www.google.com)
 
-귀여운 고양이 이미지:
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Shohei_Ohtani_%2852252068139%29.jpg" alt="오타니 쇼헤이" width="240" />
+  &nbsp;&nbsp;&nbsp;
+  <strong style="font-size: 36px;">→</strong>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/69102.jpg" alt="문보경" width="240" />
+</p>
 
-![문보경](https://spnimage.edaily.co.kr/images/photo/files/NP/S/2022/07/PS22073000074.jpg)
+<p align="center"><b>오타니 쇼헤이 → 문보경</b></p>
 
 ## 할 일 목록
 
