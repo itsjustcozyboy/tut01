@@ -35,8 +35,7 @@ greet("홍길동")
 
 귀여운 고양이 이미지:
 
-![귀여운 고양이](https://images.unsplash.com/photo-1518791841217-8f162f1e1131?auto=format&fit=crop&w=800&q=60)
-
+![문보경](https://spnimage.edaily.co.kr/images/photo/files/NP/S/2022/07/PS22073000074.jpg)
 
 ## 할 일 목록
 
