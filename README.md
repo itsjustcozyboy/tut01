@@ -22,4 +22,9 @@
 
 ### 간단한 코드 예시
 다음은 Python의 간단한 코드입니다.
+  def greet(name):
+      print(f"안녕하세요, {name}님!")
 
+  greet("홍길동")
+
+### 링크와 이미지
